@@ -1,7 +1,7 @@
-Mission: Improve brazilian public health data analysis and clinical records  
-Missão: Melhorar sistema de análize e registro de dados em saúde, com ênfase do serviço público  
+**Mission**: Improve brazilian public health data analysis and clinical records  
+**Missão**: Melhorar sistema de análize e registro de dados em saúde, com ênfase do serviço público  
 
-CEO and founder of [ORANGO I/O TECNOLOGIA](https://github.com/ORANGO-IO)
+**CEO** and founder of [ORANGO I/O TECNOLOGIA](https://github.com/ORANGO-IO)
 
 - 👋 Hi, I’m @filiperochalopes
 - 👀 I’m interested in Python and Javascript
