@@ -4,6 +4,7 @@
 **CEO** and founder of [ORANGO I/O TECNOLOGIA](https://github.com/ORANGO-IO)
 
 - 👋 Hi, I’m @filiperochalopes
+- 🎓 Developer for 12+ years, physician at [UFBA](https://www.ufba.br/) and postgraduate in management and innovation of health services at [PUCRS](https://www.pucrs.br/)
 - 👀 I’m interested in Python and Javascript
 - 🌱 I’m currently learning Principles of calculus, neural network and machine learning
 - 💞️ I’m looking to collaborate on health web based programs
