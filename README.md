@@ -1,5 +1,5 @@
 **Mission**: Improve brazilian public health data analysis and clinical records  
-**Missão**: Melhorar sistema de análize e registro de dados em saúde brasileiro, com ênfase do serviço público  
+**Missão**: Melhorar sistema de análize e registro de dados em saúde brasileiro, com ênfase do serviço público e particular (pessoais, pequenas e médias empresas)
 
 **CEO** and founder of [ORANGO I/O TECNOLOGIA](https://github.com/ORANGO-IO)
 
